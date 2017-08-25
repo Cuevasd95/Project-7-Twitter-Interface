@@ -1,7 +1,7 @@
 .DS_Store
 .sass-cache
-config.js/
-package.json/
-package-lock.json/
-Procfile/
+config.js
+package.json
+package-lock.json
+Procfile
 node_modules/
